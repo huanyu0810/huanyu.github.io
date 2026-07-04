@@ -1,0 +1,29 @@
+<svg width="760" height="620" viewBox="0 0 760 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="620" rx="42" fill="#FFF3D2"/>
+  <circle cx="196" cy="124" r="72" fill="#FFD77B" opacity=".54"/>
+  <circle cx="628" cy="126" r="96" fill="#F2A35D" opacity=".22"/>
+  <circle cx="602" cy="438" r="118" fill="#FFD77B" opacity=".32"/>
+  <path d="M126 460c74 54 426 54 500 0l-38 72c-26 50-396 50-424 0l-38-72Z" fill="#B96824"/>
+  <path d="M103 416c0 72 520 72 520 0 0-70-520-70-520 0Z" fill="#F2C66E"/>
+  <path d="M140 410c0 46 446 46 446 0 0-48-446-48-446 0Z" fill="#FFF7E6"/>
+  <path d="M182 386c50-34 326-36 372-2-20 20-66 36-158 40-104 4-176-10-214-38Z" fill="#E68B35"/>
+  <path d="M190 410c48 26 300 34 374-6" stroke="#FFE0A2" stroke-width="18" stroke-linecap="round"/>
+  <path d="M188 436c90 34 292 34 376-2" stroke="#FFE0A2" stroke-width="16" stroke-linecap="round"/>
+  <path d="M246 362c14-26 44-24 58-2 16-30 54-28 68 2 18-26 54-22 66 8" stroke="#B14F2A" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="260" cy="420" r="22" fill="#7E3F1B"/>
+  <circle cx="440" cy="396" r="20" fill="#7E3F1B"/>
+  <circle cx="520" cy="424" r="15" fill="#3F7A36"/>
+  <circle cx="340" cy="430" r="13" fill="#3F7A36"/>
+  <path d="M104 292 518 178" stroke="#6C3D19" stroke-width="18" stroke-linecap="round"/>
+  <path d="M130 330 548 214" stroke="#8B5520" stroke-width="18" stroke-linecap="round"/>
+  <rect x="532" y="214" width="120" height="260" rx="34" fill="#F7B760"/>
+  <rect x="548" y="238" width="88" height="204" rx="28" fill="#FFF5DE"/>
+  <path d="M546 326h92v82c0 24-20 44-44 44h-4c-24 0-44-20-44-44v-82Z" fill="#D6863A"/>
+  <circle cx="574" cy="378" r="9" fill="#7C4B22"/>
+  <circle cx="602" cy="402" r="10" fill="#7C4B22"/>
+  <circle cx="616" cy="360" r="8" fill="#7C4B22"/>
+  <path d="M588 214c-8-48 14-76 62-82" stroke="#8A5705" stroke-width="14" stroke-linecap="round"/>
+  <rect x="526" y="194" width="132" height="34" rx="17" fill="#FFE0A0"/>
+  <path d="M248 300c-18-20-16-44 6-64M344 290c-22-24-20-52 8-76M438 304c-16-22-12-50 12-66" stroke="#E67A45" stroke-width="11" stroke-linecap="round"/>
+  <path d="M104 478c102 64 416 66 520 0" stroke="#7A4157" stroke-width="10" stroke-linecap="round" opacity=".18"/>
+</svg>
